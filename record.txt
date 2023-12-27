@@ -1,0 +1,1 @@
+('Sarah Miller', '555-5678', 'sarah@email.com', 'Female', '32', '$800', 4)
